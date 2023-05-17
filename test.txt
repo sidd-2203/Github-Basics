@@ -1,0 +1,2 @@
+Hello this is basics of git
+Im modifying this file
